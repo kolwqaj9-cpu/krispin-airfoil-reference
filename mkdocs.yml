@@ -1,0 +1,28 @@
+site_name: "Airfoil Aerodynamics & Vortex Method Reference"
+site_url: https://krispin-airfoil-reference.readthedocs.io/
+site_description: "Airfoil Aerodynamics & Vortex Method Reference: compiled from public-domain US federal government publications."
+site_author: "Krispin Technologies Archive"
+copyright: "Compiled from public-domain US federal government publications."
+
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: indigo
+
+nav:
+  - Reference: index.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  generator: false
