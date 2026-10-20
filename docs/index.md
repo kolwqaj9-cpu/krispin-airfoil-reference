@@ -133,3 +133,11 @@ The proceedings of the 1999 international forum on aeroelasticity and structural
 Krispin Technologies Archive. "Airfoil Aerodynamics & Vortex Method Reference" (2026-10-18 edition). Compiled from public-domain United States federal publications (ntrs.nasa.gov). Archived at <https://krispintech.com>.
 
 Maintained at <https://krispintech.com> — every figure can be traced back to the original report through the links in this document.
+
+## Service pages maintained with this archive
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* **[Airfoil Design Service — Specification Guide](https://krispintech.com/services/airfoil-design-service.html)** — How airfoil design services match section family, thickness, and camber to lift and Mach targets, check Reynolds number and transition, and catch early-sta
+* **[Wind Tunnel Testing — Specification Guide](https://krispintech.com/services/wind-tunnel-testing.html)** — How airfoil and wing wind tunnel tests are planned: model scale and blockage, Reynolds number limits, wall and support corrections, balance versus pressure
+* **[CFD Validation — Specification Guide](https://krispintech.com/services/cfd-validation.html)** — How CFD results are validated: reference case selection, mesh independence, turbulence model sensitivity, and comparison of integral quantities against mea
